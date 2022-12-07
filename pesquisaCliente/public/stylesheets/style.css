@@ -1,0 +1,26 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: aqua;
+}
+#titulo{
+  text-align: center;
+  margin-top: 10%;
+  font-size: 45px;
+  font-weight: bold;
+  color: rgb(19, 98, 245);
+}
+#buttons{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+#card{
+  margin-top: 5%;
+}
+

@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*precisa editar o tamanho da foto esta original e pesada*/
+#logo{
+    width: 15%;
+}
+#titulo{
+    color: rgb(51, 79, 116);
+}
+.tamanhobtn{
+    width: 20%;
+}
+#homeTermPesquisa{
+    color:white;
+    text-decoration: none;
+}

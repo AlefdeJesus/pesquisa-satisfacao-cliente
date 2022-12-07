@@ -1,0 +1,15 @@
+{
+  "name": "pesquisa-satisfacao-cliente",
+  "version": "1.0.0",
+  "description": "Sistema para pesquisar datisfacao do cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlefSantos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1"
+  }
+}
