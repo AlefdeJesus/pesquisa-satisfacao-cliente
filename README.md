@@ -14,4 +14,4 @@
     localhost:3000
 
 
-![Alt text](../pesquisa%20satisfacao%20cliente/pesquisaCliente/public/images/logo.png?raw=true "Title")
+![Alt text](../pesquisaCliente/public/images/logo.png?raw=true "Title")
